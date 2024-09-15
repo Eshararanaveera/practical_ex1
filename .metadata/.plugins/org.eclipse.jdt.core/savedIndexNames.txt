@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\Admin\Desktop\java\t44\.metadata\.plugins\org.eclipse.jdt.core
